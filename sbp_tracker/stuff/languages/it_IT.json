@@ -1,0 +1,14 @@
+{
+	"menu": "-s: Selezione oggetti\n-l: Lingua\ninvio: Esci\n",
+	"menu_sel": "Inserire oggetto o scrivere -e per uscire:\n",
+	"language_sel": "Seleziona una lingua:\n\n-it: Italiano\n-en: Inglese\n",
+	"mpli": "Moltiplicatore",
+	"s_name": "Nome",
+	"s_pri": "Prezzo aquisto",
+	"s_sell": "Prezzo vendita",
+	"s_del": "Differenza",
+	"err_1": "L'item selezionato non esiste\n",
+	"err_2": "Il moltiplicatore deve essere un numero positivo\n",
+	"err_3": "Qualcosa è andato storto\n",
+	"err_4": "Input non valido\n"
+}

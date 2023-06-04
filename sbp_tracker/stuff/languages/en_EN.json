@@ -1,0 +1,14 @@
+{
+	"menu": "-s: Items selection\n-l: Language\nEnter: Quit\n",
+	"menu_sel": "Insert item name or write -e to exit:\n",
+	"language_sel": "Select a language:\n\n-it: Italian\n-en: English\n",
+	"mpli": "Multiplyer",
+	"s_name": "Name",
+	"s_pri": "Buy price",
+	"s_sell": "Sell price",
+	"s_del": "Difference",
+	"err_1": "The selected item doesen't exist\n",
+	"err_2": "The multiplier must be a positive number\n",
+	"err_3": "Something went wrong\n",
+	"err_4": "Invalid input\n"
+}
